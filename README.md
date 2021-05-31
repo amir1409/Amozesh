@@ -1,1 +1,3 @@
-# Amozesh
+{
+  "ویدیو": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/31f3407b27569742d2075d2bffe148a233816057-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQyOTZkZjVkNGQyNTA3NDQ2ZmNlYjIyNWZlZmJmOWZjIiwiZXhwIjoxNjIyNTA0OTkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ghgBoDdONgfLC6sT0Yq95jN3M90gABkcz-qhFi4U3Ek"
+} 
